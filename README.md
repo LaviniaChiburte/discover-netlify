@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [Link]()
+* Link to the website deployed on Netlify : [https://lavinia-chiburte-0000.netlify.com/]()
